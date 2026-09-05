@@ -1,0 +1,382 @@
+[
+  {
+    "id": "1",
+    "name": "Practical Notebook (200 Pages)",
+    "category": "Stationery",
+    "categoryLabel": "Stationery",
+    "price": 110,
+    "originalPrice": 120,
+    "cost": 66,
+    "rating": 4.9,
+    "reviewsCount": 104,
+    "image": "assets/images/practical_notebook_200.jpg",
+    "emoji": "📓",
+    "description": "Science lab notebook, 200 pages",
+    "inStock": true,
+    "stockCount": 100,
+    "tags": [
+      "practical notebook (200 pages)"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Practical Notebook (144 Pages)",
+    "category": "Stationery",
+    "categoryLabel": "Stationery",
+    "price": 70,
+    "originalPrice": 80,
+    "cost": 42,
+    "rating": 4.8,
+    "reviewsCount": 131,
+    "image": "assets/images/practical_notebook_144.jpg",
+    "emoji": "📓",
+    "description": "Science lab notebook, 144 pages",
+    "inStock": true,
+    "stockCount": 100,
+    "tags": [
+      "practical notebook (144 pages)"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "A4 Assignment Sheets (100 pcs)",
+    "category": "Stationery",
+    "categoryLabel": "Stationery",
+    "price": 90,
+    "originalPrice": 110,
+    "cost": 54,
+    "rating": 4.9,
+    "reviewsCount": 114,
+    "image": "https://images.unsplash.com/photo-1586075010923-2dd4570fb338?auto=format&fit=crop&w=600&q=80",
+    "emoji": "📄",
+    "description": "100 ruled assignment sheets",
+    "inStock": true,
+    "stockCount": 100,
+    "tags": [
+      "a4 assignment sheets (100 pcs)"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Ball & Gel Pen Set (Pack of 5)",
+    "category": "Stationery",
+    "categoryLabel": "Stationery",
+    "price": 60,
+    "originalPrice": 75,
+    "cost": 36,
+    "rating": 4.8,
+    "reviewsCount": 152,
+    "image": "https://images.unsplash.com/photo-1585336261026-7f41a99ef87b?auto=format&fit=crop&w=600&q=80",
+    "emoji": "🖊️",
+    "description": "3 Blue, 1 Black, 1 Red",
+    "inStock": true,
+    "stockCount": 100,
+    "tags": [
+      "ball & gel pen set (pack of 5)"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Calculator Shockproof Case",
+    "category": "Stationery",
+    "categoryLabel": "Stationery",
+    "price": 249,
+    "originalPrice": 349,
+    "cost": 149,
+    "rating": 4.9,
+    "reviewsCount": 72,
+    "image": "https://images.unsplash.com/photo-1594980596870-8aa52a78d8cd?auto=format&fit=crop&w=600&q=80",
+    "emoji": "🧮",
+    "description": "EVA protective case",
+    "inStock": true,
+    "stockCount": 100,
+    "tags": [
+      "calculator shockproof case"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Gym Wrist Band (Pair)",
+    "category": "Gym Essentials",
+    "categoryLabel": "Gym Essentials",
+    "price": 199,
+    "originalPrice": 299,
+    "cost": 119,
+    "rating": 4.9,
+    "reviewsCount": 150,
+    "image": "assets/images/gym_wrist_band_main.jpg",
+    "emoji": "💪",
+    "description": "Heavy duty with thumb loops",
+    "inStock": true,
+    "stockCount": 100,
+    "tags": [
+      "gym wrist band (pair)"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Gym Duffel Bag",
+    "category": "Gym Essentials",
+    "categoryLabel": "Gym Essentials",
+    "price": 699,
+    "originalPrice": 999,
+    "cost": 419,
+    "rating": 4.9,
+    "reviewsCount": 76,
+    "image": "assets/images/gym_duffel_bag_main.jpg",
+    "emoji": "🎒",
+    "description": "35L barrel with shoe compartment",
+    "inStock": true,
+    "stockCount": 100,
+    "tags": [
+      "gym duffel bag"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Gym Gloves with Wrist Wrap",
+    "category": "Gym Essentials",
+    "categoryLabel": "Gym Essentials",
+    "price": 349,
+    "originalPrice": 499,
+    "cost": 209,
+    "rating": 4.8,
+    "reviewsCount": 166,
+    "image": "assets/images/gym_gloves_1.jpg",
+    "emoji": "🥊",
+    "description": "Leatherette half-finger gloves",
+    "inStock": true,
+    "stockCount": 100,
+    "tags": [
+      "gym gloves with wrist wrap"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Protein Shaker (3-Compartment)",
+    "category": "Gym Essentials",
+    "categoryLabel": "Gym Essentials",
+    "price": 299,
+    "originalPrice": 449,
+    "cost": 179,
+    "rating": 4.9,
+    "reviewsCount": 97,
+    "image": "assets/images/gym_shaker_main.jpg",
+    "emoji": "🥤",
+    "description": "500ml + powder & pill storage",
+    "inStock": true,
+    "stockCount": 100,
+    "tags": [
+      "protein shaker (3-compartment)"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Resistance Loop Bands (Set of 5)",
+    "category": "Gym Essentials",
+    "categoryLabel": "Gym Essentials",
+    "price": 399,
+    "originalPrice": 599,
+    "cost": 239,
+    "rating": 4.8,
+    "reviewsCount": 54,
+    "image": "https://images.unsplash.com/photo-1598289431512-b97b0917affc?auto=format&fit=crop&w=600&q=80",
+    "emoji": "🏋️",
+    "description": "5 levels, natural latex",
+    "inStock": true,
+    "stockCount": 100,
+    "tags": [
+      "resistance loop bands (set of 5)"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Wired Keyboard & Mouse Combo",
+    "category": "Laptop Accessories",
+    "categoryLabel": "Laptop Accessories",
+    "price": 599,
+    "originalPrice": 799,
+    "cost": 359,
+    "rating": 4.7,
+    "reviewsCount": 108,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&q=80",
+    "emoji": "⌨️",
+    "description": "USB plug & play",
+    "inStock": true,
+    "stockCount": 100,
+    "tags": [
+      "wired keyboard & mouse combo"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Wireless Keyboard & Mouse",
+    "category": "Laptop Accessories",
+    "categoryLabel": "Laptop Accessories",
+    "price": 999,
+    "originalPrice": 1399,
+    "cost": 599,
+    "rating": 4.8,
+    "reviewsCount": 103,
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=600&q=80",
+    "emoji": "🖱️",
+    "description": "2.4GHz, auto-sleep",
+    "inStock": true,
+    "stockCount": 100,
+    "tags": [
+      "wireless keyboard & mouse"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Laptop Cooling Pad with Stand",
+    "category": "Laptop Accessories",
+    "categoryLabel": "Laptop Accessories",
+    "price": 799,
+    "originalPrice": 1199,
+    "cost": 479,
+    "rating": 4.8,
+    "reviewsCount": 122,
+    "image": "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33?auto=format&fit=crop&w=600&q=80",
+    "emoji": "💻",
+    "description": "Dual fan, 5 height levels",
+    "inStock": true,
+    "stockCount": 100,
+    "tags": [
+      "laptop cooling pad with stand"
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Pendrive 32GB (USB 3.0)",
+    "category": "Laptop Accessories",
+    "categoryLabel": "Laptop Accessories",
+    "price": 349,
+    "originalPrice": 499,
+    "cost": 209,
+    "rating": 4.9,
+    "reviewsCount": 161,
+    "image": "https://images.unsplash.com/photo-1618761714954-0b8cd0026356?auto=format&fit=crop&w=600&q=80",
+    "emoji": "💾",
+    "description": "130 MB/s, metal casing",
+    "inStock": true,
+    "stockCount": 100,
+    "tags": [
+      "pendrive 32gb (usb 3.0)"
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Pendrive 64GB (USB 3.1)",
+    "category": "Laptop Accessories",
+    "categoryLabel": "Laptop Accessories",
+    "price": 499,
+    "originalPrice": 699,
+    "cost": 299,
+    "rating": 4.9,
+    "reviewsCount": 58,
+    "image": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=600&q=80",
+    "emoji": "💾",
+    "description": "150 MB/s, encrypted",
+    "inStock": true,
+    "stockCount": 100,
+    "tags": [
+      "pendrive 64gb (usb 3.1)"
+    ]
+  },
+  {
+    "id": "16",
+    "name": "4-Socket Spike Guard (3m cord)",
+    "category": "Hostel Essentials",
+    "categoryLabel": "Hostel Essentials",
+    "price": 399,
+    "originalPrice": 549,
+    "cost": 239,
+    "rating": 4.9,
+    "reviewsCount": 131,
+    "image": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=600&q=80",
+    "emoji": "🔌",
+    "description": "Surge protection, LED switches",
+    "inStock": true,
+    "stockCount": 100,
+    "tags": [
+      "4-socket spike guard (3m cord)"
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Electric Kettle 1.5L",
+    "category": "Hostel Essentials",
+    "categoryLabel": "Hostel Essentials",
+    "price": 649,
+    "originalPrice": 899,
+    "cost": 389,
+    "rating": 4.8,
+    "reviewsCount": 55,
+    "image": "https://images.unsplash.com/photo-1594213114663-ddf4f240f08d?auto=format&fit=crop&w=600&q=80",
+    "emoji": "☕",
+    "description": "1500W, auto shut-off",
+    "inStock": true,
+    "stockCount": 100,
+    "tags": [
+      "electric kettle 1.5l"
+    ]
+  },
+  {
+    "id": "18",
+    "name": "LED Study Desk Lamp",
+    "category": "Hostel Essentials",
+    "categoryLabel": "Hostel Essentials",
+    "price": 499,
+    "originalPrice": 699,
+    "cost": 299,
+    "rating": 4.7,
+    "reviewsCount": 194,
+    "image": "https://images.unsplash.com/photo-1534353436294-0dbd4bdac845?auto=format&fit=crop&w=600&q=80",
+    "emoji": "💡",
+    "description": "3 color modes, rechargeable",
+    "inStock": true,
+    "stockCount": 100,
+    "tags": [
+      "led study desk lamp"
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Foldable Laundry Hamper",
+    "category": "Hostel Essentials",
+    "categoryLabel": "Hostel Essentials",
+    "price": 249,
+    "originalPrice": 349,
+    "cost": 149,
+    "rating": 4.6,
+    "reviewsCount": 111,
+    "image": "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?auto=format&fit=crop&w=600&q=80",
+    "emoji": "🧺",
+    "description": "Pop-up mesh, 10kg capacity",
+    "inStock": true,
+    "stockCount": 100,
+    "tags": [
+      "foldable laundry hamper"
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Cotton Bedsheet + Pillow Cover",
+    "category": "Hostel Essentials",
+    "categoryLabel": "Hostel Essentials",
+    "price": 399,
+    "originalPrice": 599,
+    "cost": 239,
+    "rating": 4.7,
+    "reviewsCount": 139,
+    "image": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?auto=format&fit=crop&w=600&q=80",
+    "emoji": "🛏️",
+    "description": "200 TC, single bed size",
+    "inStock": true,
+    "stockCount": 100,
+    "tags": [
+      "cotton bedsheet + pillow cover"
+    ]
+  }
+]
